@@ -20,6 +20,6 @@ For converting screenshot of Individual Power/Kill rankings to readable Text
 5.Extract the data to google sheets
 6.Clean the data
 
-#License
+# License
 
 Free to use and do whatever you want with this code
