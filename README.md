@@ -14,7 +14,8 @@ For converting screenshot of Individual Power/Kill rankings to readable Text
 # Detailed Instructions are provided in google colab
 
 1.Upload the files to google drive(Seperate folder)
-2.Run google colab 
+
+2.Make a copy of notebook and run google colab 
 
 3.Check sample image and crop
 
