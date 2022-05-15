@@ -12,6 +12,7 @@ For converting screenshot of Individual Power/Kill rankings to readable Text
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 # Detailed Instructions are provided in google colab
+
 1.Upload the files to google drive(Seperate folder)
 2.Run google colab 
 3.Check sample image and crop
@@ -20,4 +21,5 @@ For converting screenshot of Individual Power/Kill rankings to readable Text
 6.Clean the data
 
 #License
+
 Free to use and do whatever you want with this code
